@@ -11,5 +11,23 @@
       "StackId": "arn:aws:cloudformation:eu-west-1:848938735743:stack/amplify-frontaws-dev-62593/d71549f0-660d-11f0-9346-06c63c36474b",
       "AmplifyAppId": "d1q4ts9m21toj"
     }
+  },
+  "felix": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-frontaws-felix-b7bb2-authRole",
+      "UnauthRoleArn": "arn:aws:iam::848938735743:role/amplify-frontaws-felix-b7bb2-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::848938735743:role/amplify-frontaws-felix-b7bb2-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-frontaws-felix-b7bb2-deployment",
+      "UnauthRoleName": "amplify-frontaws-felix-b7bb2-unauthRole",
+      "StackName": "amplify-frontaws-felix-b7bb2",
+      "StackId": "arn:aws:cloudformation:eu-west-1:848938735743:stack/amplify-frontaws-felix-b7bb2/99ecb860-662b-11f0-9db9-02a9c2326b79",
+      "AmplifyAppId": "d1q4ts9m21toj"
+    },
+    "categories": {
+      "function": {
+        "testFelix": {}
+      }
+    }
   }
 }
